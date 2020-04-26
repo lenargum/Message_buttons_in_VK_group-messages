@@ -1,6 +1,6 @@
 # Demo Google Chrome extension on React
 
-Demo project, which adds message template buttons in group's private dialogues on admin's side.
+Demo project, which adds template-message buttons in group's private dialogues on admin's side.
 
 - Built on create-react-app, without [ejecting](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject)
 - Development mode with near-hot reloading on `npm start`
