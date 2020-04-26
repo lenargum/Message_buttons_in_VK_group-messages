@@ -13,7 +13,9 @@ Demo project, which adds template-message buttons in [VK](https://vk.com/) group
 - open `chrome://extensions/` and toggle developer mode
 - press `upload unpacked extension` button and choose `build` folder
 - open group's private dialogue with somebody
-- you must see buttons
+- you must see these buttons
+
+![](https://i.imgur.com/MbZhmZH.png)
 
 ## Version for Mozilla Firefox in `feature/firefox` branch
 
