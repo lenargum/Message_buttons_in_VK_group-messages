@@ -7,9 +7,6 @@ This is a demo project.
 - Production builds with `npm run build`
 
 ## Version for Mozilla Firefox in `feature/firefox` branch
-### To check result you need to:
-- run `npm run build`
-- use `manifest.json` inside `build` folder
 
 ## Reference
 https://www.rubberduck.io/blog/browser-extensions-react
