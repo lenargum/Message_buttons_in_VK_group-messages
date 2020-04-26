@@ -17,7 +17,7 @@ Demo project, which adds template-message buttons in [VK](https://vk.com/) group
 
 ![](https://i.imgur.com/MbZhmZH.png)
 
-## Version for Mozilla Firefox in `feature/firefox` branch
+## Version for Mozilla Firefox in [`feature/firefox`](https://github.com/lenargum/Message_buttons_in_VK_group-messages/tree/feature/firefox) branch
 
 ## Reference
 https://www.rubberduck.io/blog/browser-extensions-react
