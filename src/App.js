@@ -5,7 +5,6 @@ import "./styles.css"
 class App extends Component {
     render() {
         const width = document.getElementsByClassName("im_chat-input--buttons")[0].offsetWidth;
-
         return (
             <div className="extension_buttons" style={{paddingRight: width}}>
                 <Button message={"Привет, %username%!"}/>
