@@ -8,7 +8,8 @@ Demo project, which adds template-message buttons in [VK](https://vk.com/) group
 - open `about:debugging#/runtime/this-firefox`
 - press `upload temporary extension` button and choose `manifest.json` inside `build` folder
 - open group's private dialogue with somebody
-- you must see buttons
+- you must see these buttons
 
+![](https://i.imgur.com/0h2uFAJ.png)
 ## Reference
 https://www.rubberduck.io/blog/browser-extensions-react
