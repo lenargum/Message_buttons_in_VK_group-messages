@@ -1,6 +1,6 @@
-# Demo extension in React
+# Demo browser extension in React
 
-This is a demo project. Browser extension is:
+This is a demo project.
 
 - Built on create-react-app, without [ejecting](https://github.com/facebook/create-react-app/blob/master/packages/react-scripts/template/README.md#npm-run-eject)
 - Development mode with near-hot reloading on `npm start`
