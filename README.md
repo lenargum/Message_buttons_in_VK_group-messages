@@ -1,6 +1,6 @@
 # Demo Mozilla Firefox extension on React
 
-This is a demo project.
+Demo project, which adds template-message buttons in [VK](https://vk.com/) group's private dialogues on admin's side.
 
 ## How to start
 - run `npm run build`
