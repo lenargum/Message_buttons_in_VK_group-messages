@@ -1,0 +1,18 @@
+{
+  "manifest_version": 2,
+  "name": "Message templates for VK group messages",
+  "version": "0.0.1",
+
+  "description": "Adds message templates in group messages at vk.com/gim*",
+
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+
+  "background": {
+    "persistent": false,
+    "scripts": ["background.js"]
+  },
+  "permissions": ["*://*.vk.com/gim*"]
+}
